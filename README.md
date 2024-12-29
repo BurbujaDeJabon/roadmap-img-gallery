@@ -1,5 +1,7 @@
 # Image Grid - Roadmap.sh Project
 
+https://roadmap.sh/projects/image-grid
+
 Welcome to the **Image Grid** project!    **INCOMPLETE!**
 This project is part of the **Roadmap.sh** series and demonstrates an **implicit responsive grid** layout. 
 The gallery dynamically arranges images into a responsive, multi-row grid that adapts to different screen sizes, providing a smooth, flexible design for displaying image galleries.
